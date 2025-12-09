@@ -1,0 +1,5 @@
+{
+  "name": "Vibe Weather - Kawaii Edition",
+  "description": "A functionality-first weather app with a dreamy Y2K aesthetic, featuring real-time data from Open-Meteo and AI outfit suggestions via Gemini.",
+  "requestFramePermissions": []
+}
